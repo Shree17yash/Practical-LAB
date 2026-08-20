@@ -13,8 +13,8 @@ This repository contains the laboratory practical assignments for the Second Yea
 
 The practical assignments are organized by programming language into their respective directories:
 
-* `/Java` - DSA programming lab assignments and source code.
-* `/python` - Python programming lab assignments and scripts.
+* `Java` - DSA programming lab assignments and source code.
+* `Python` - Python programming lab assignments and scripts.
 
 ## 🚀 Getting Started
 
