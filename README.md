@@ -16,11 +16,3 @@ The practical assignments are organized by programming language into their respe
 
 * `Java` - DSA programming lab assignments and source code.
 * `Python` - Python programming lab assignments and scripts.
-
-## 🚀 Getting Started
-
-To view or run these practicals on your local machine:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Shree17yash/Practical-LAB.git
