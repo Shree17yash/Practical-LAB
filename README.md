@@ -1,6 +1,6 @@
 # SY B.Tech CSE Lab Practicals 💻
 
-This repository contains the laboratory practical assignments for the Second Year B.Tech Computer Science and Engineering (CSE) curriculum. 
+This repository contains the laboratory practical assignments for the Second Year B.Tech Computer Science and Engineering (CSE). 
 
 ## 👨‍🎓 Student Details
 
@@ -8,6 +8,7 @@ This repository contains the laboratory practical assignments for the Second Yea
 * **Course:** B.Tech CSE (Second Year)
 * **Division:** SY26
 * **Roll No:** 06
+* **Enrollment No:** ADT26SOCBD080
 
 ## 📁 Repository Structure
 
